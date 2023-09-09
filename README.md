@@ -13,7 +13,7 @@ HTML, CSS, JavaScript, Openweathermap API
 
 ## Screenshots
 
-![Captura de pantalla 2023-09-09 200253](https://github.com/camila-ag/clima-app/assets/78826652/5f37a155-8297-4edc-9946-d6f95bd0341b)
+![Captura de pantalla 2023-09-09 200253](https://github.com/camila-ag/clima-app/assets/78826652/9e41efed-5c8f-49ab-b824-e8c5a1c1956f)
 
 ## Clonar proyecto
 
