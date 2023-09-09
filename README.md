@@ -20,7 +20,7 @@ HTML, CSS, JavaScript, Openweathermap API
 Clone the project
 
 ```bash
-  git clone https://link-to-project](https://github.com/camila-ag/clima-app.git
+  git clone https://github.com/camila-ag/clima-app.git
 ```
 
 Dirigirse a la carpeta del proyecto
